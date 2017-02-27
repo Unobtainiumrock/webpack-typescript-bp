@@ -1,7 +1,7 @@
 {
   "name": "demo",
   "version": "1.0.0",
-  "description": "playing with typescript",
+  "description": "utilizes typescript and typescript loader over the usual babel",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",

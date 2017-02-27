@@ -2,7 +2,7 @@
 var path = require('path');
 
 module.exports = {
- entry: './client/index.ts',
+ entry: './src/index.ts',
  output: {
    path: path.resolve(__dirname, 'dist'),
    publicPath: '/',
