@@ -23,6 +23,6 @@ that utilize TypeScript. If you choose to do this, follow `2A.)`, otherwise foll
 
 note: This assumes that you have knowledge of module patterns and loading various dependencies into a project.
 
-####Useful info on declaration files for third part modules
+####Useful info on declaration files for third party modules
 https://blogs.msdn.microsoft.com/typescript/2016/06/15/the-future-of-declaration-files/
 
