@@ -11,8 +11,6 @@
   "author": "Nicholas Fleischhauer",
   "license": "ISC",
   "dependencies": {
-    "@types/jquery": "^2.0.40",
-    "jquery": "^3.1.1"
   },
   "devDependencies": {
     "source-map-loader": "^0.1.6",
