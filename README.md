@@ -1,8 +1,7 @@
 #Webpack with Typescript Boiler Plate
 
 ##Description
-This configuration in short, essentially swaps out babel and babel-loader as the compiler and loaders 
-for typescript and ts-loader. 
+This essentially swaps out `babel` and `babel-loader` as the compiler and loaders in favor of `typescript` and `ts-loader`. 
 
 ##Prerequisites
 This just comes down to preference, but I prefer to have TypeScript installed globally and just use npm link for projects
