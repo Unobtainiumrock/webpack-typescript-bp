@@ -19,7 +19,9 @@ that utilize TypeScript. If you choose to do this, follow `2A.)`, otherwise foll
 
 2.) Run `npm install` to install the other included dependencies
 
-3.) To ts-compile and webpack bundle all of your files, type `npm run build` into your terminal
+3.) To ts-compile and webpack bundle all of your files, type `npm run build` into your terminal.
+    You can alternatively run `npm start`. This will run the build script, followed by setting
+    up a webpack-dev-server to serve the files for viewing at your localhost:8080.
 
 note: This assumes that you have knowledge of module patterns and loading various dependencies into a project.
 
